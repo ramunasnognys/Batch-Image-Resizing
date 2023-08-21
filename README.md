@@ -13,6 +13,7 @@
 8. Wait for Adobe Photoshop to process the images and save them in the destination folder.
 9. Once the process is complete, **check the "Export" folder for the resized and exported images.**
 
+
 **__Default Processed Image Settings:__**
 - Width: 2790px
 - Height: 2460px
