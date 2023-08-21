@@ -13,7 +13,7 @@
 8. Wait for Adobe Photoshop to process the images and save them in the destination folder.
 9. Once the process is complete, check the **"Export"** folder for the resized and exported images.
 ---
-<br/><br/>
+<br/>
 
 🌄📸 **__𝓓𝓮𝓯𝓪𝓾𝓵𝓽 𝓟𝓻𝓸𝓬𝓮𝓼𝓼𝓮𝓭 𝓘𝓶𝓪𝓰𝓮 𝓢𝓮𝓽𝓽𝓲𝓷𝓰𝓼:__** 📸🌄
 
