@@ -1,4 +1,4 @@
-# Batch Image Resizing with Browse Script
+# Batch Image Resizing with Photoshop
 
 **Description:** Resizes and exports multiple images using the "Browse" script in Adobe Photoshop.
 
