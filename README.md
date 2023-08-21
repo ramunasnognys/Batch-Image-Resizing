@@ -2,7 +2,7 @@
 
 **Description:** Resizes and exports multiple images using the "Browse" script in Adobe Photoshop.
 
-## Steps:
+## How To Guide:
 
 1. **Open Adobe Photoshop.**
 2. Go to "File" -> "Scripts" -> "Image Processor".
