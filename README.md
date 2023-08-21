@@ -6,12 +6,12 @@
 ## How To Guide:
 
 1. Download BatchImageResize.jsx file.
-1. **Open Adobe Photoshop.**
-2. Go to "File" -> "Scripts" -> "Browse".
-3. Choose BatchImageResize.jsx file
+1. Open Adobe Photoshop.
+2. Go to **"File"** -> **"Scripts"** -> **"Browse"**.
+3. Choose **BatchImageResize.jsx** file
 5. Choose the folder containing the images you want to resize.
 8. Wait for Adobe Photoshop to process the images and save them in the destination folder.
-9. Once the process is complete, **check the "Export" folder for the resized and exported images.**
+9. Once the process is complete, check the **"Export"** folder for the resized and exported images.
 
 
 <br/><br/><br/> 
