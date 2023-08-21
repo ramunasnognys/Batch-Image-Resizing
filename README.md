@@ -5,8 +5,8 @@
 ---
 ## How To Guide:
 
-1. Download BatchImageResize.jsx file.
-1. Open Adobe Photoshop.
+1. **Download** BatchImageResize.jsx file.
+1. **Open** Adobe Photoshop.
 2. Go to **"File"** -> **"Scripts"** -> **"Browse"**.
 3. Choose **BatchImageResize.jsx** file
 5. Choose the folder containing the images you want to resize.
