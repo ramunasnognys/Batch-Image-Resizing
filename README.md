@@ -13,5 +13,10 @@
 8. Wait for Adobe Photoshop to process the images and save them in the destination folder.
 9. Once the process is complete, **check the "Export" folder for the resized and exported images.**
 
+**__Default Processed Image Settings:__**
+- Width: 2790px
+- Height: 2460px
+- 300 PPI
+
 ---
 **Additional Information:** This script in Photoshop provides an efficient way to batch resize and export multiple images. It allows you to specify the source folder, destination folder, image dimensions, file type, and other options. By following the steps outlined above, you can easily resize and export multiple images in Photoshop using the "Browse" script.
